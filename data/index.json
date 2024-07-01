@@ -1,0 +1,107 @@
+{
+    "home": {
+      "title": "Welcome to My Portfolio",
+      "subtitle": "Explore my work and experience.",
+      "description": "I am a aspiring web developer with a passion for creating beautiful and functional websites",
+      "image": "https://github.com/Kifaa26/images/blob/main/images/20240422_091005.jpg?raw=true"
+    },
+  
+    "aboutMe": {
+      "title": "About Me",
+      "description": "After high school, I took a gap year to delve into Informaton Technology, captivated by the mechanics behind apps, website, and games. This exploration solidified my decision to pursue a career as a software engineer."
+    },
+  
+      "education": [
+        {
+          "degree": "NSC - Diploma",
+          "school": "Plumstead Highschool",
+          "year": "2017 - 2021"
+        },
+        {
+          "degree": "Full-stack Software & Web Development Bootcamp",
+          "school": "Life Choices Academy",
+          "year": "2024 - present"
+        }
+      ],
+    
+      "experience": {
+          "position": "Customer Servive Representative",
+          "company": "Teleperformance",
+          "year": "October 2022 - December 2023"
+        },
+  
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Imtermediate"
+      },
+      {
+        "name": "CSS",
+        "level": "Intermedate"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Beginner"
+      },
+      {
+        "name": "Vue.Js",
+        "level": "Beginner"
+      }
+    ],
+  
+    "projects": [
+      {
+        "title": "Allure Perfumes",
+        "description": "A e-commerce website built with HTML, CSS and JavaScript",
+        "technologies": ["HTML, CSS, JavaScript"],
+        "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(3).png?raw=true"
+      },
+      {
+        "title": "To-Do-List",
+        "description": "A To-Do-List using the CRUD system",
+        "technologies": ["HTML, CSS, JavaScript"],
+        "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(6).png?raw=true"
+      },
+      {
+          "title": "Swegga",
+          "description": "One of my first projects incorparating JavaScript",
+          "technologies": ["HTML, CSS, JavaScript"],
+          "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(5).png?raw=true"
+        }
+  ],
+  
+    "testimonials": [
+      {
+        "name": "Asheeka Samuels",
+        "quote": "One of Aakifah's strengths lies in her exceptional communication skills and ability to collaborate effectively in team settings. During our time working together, I have had the pleasure of witnessing her dedication and hardworking nature.",
+        "image": "https://github.com/Kifaa26/images/blob/main/images/Askeeka.jpg?raw=true"
+      },
+      {
+        "name": "Anushka Kandan",
+        "quote": "Aakifah is an incredibly dedicated worker who consistently strives to deliver her best. She is proactive in acquiring new knowledge and excels in team environments. Aakifah has a talent for fostering a comfortable atmosphere for those around her and consistently goes the extra mile when needed.",
+        "image": "https://github.com/Kifaa26/images/blob/main/images/annushka.jpg?raw=true"
+      },
+      {
+          "name": "Caleb Okkers",
+          "quote": "Aakifah embodies professionalism at its best. She is highly analytical and adept at solving problems, consistently finding effective solutions. Aakifah demonstrates a strong commitment to her work, willing to make sacrifices to ensure tasks are completed successfully. Her encouragement and motivational approach inspire continuous improvement among her colleagues.",
+          "image": "https://github.com/Kifaa26/images/blob/main/images/Mwah%20(1).jpg?raw=true"
+      },
+      {
+          "name": "Nizaam Jeftha",
+          "quote": "Aakifah excels in coding and is an exceptional friend. Her perseverance is one of her standout qualities, as she never gives up and is always ready to assist others. Aakifah's positive attitude positively influences those around her, motivating them to work just as diligently.",
+          "image": "https://github.com/Kifaa26/images/blob/main/images/Nizaam.jpg?raw=true"
+      },
+      {
+          "name": "Joel Mukanya",
+          "quote": "Aakifah is a highly creative and dedicated individual who thrives on collaborating with her peers and excels at project work. She has acquired a diverse range of skills and tools, including HTML5, CSS3, and Bootstrap. It is my pleasure to introduce her to you as an exceptional candidate and developer.",
+          "image": "https://github.com/Kifaa26/images/blob/main/images/joel2.jpg?raw=true"
+      }
+    ]
+    ,
+    "contact": {
+      "id": 19,
+      "email": "akifahpalekar@gmail.com",
+      "phone": "060 939 0467",
+      "address": "Lotus River, Cape Town"
+    }
+  }
