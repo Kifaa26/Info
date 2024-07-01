@@ -54,19 +54,26 @@
         "title": "Allure Perfumes",
         "description": "A e-commerce website built with HTML, CSS and JavaScript",
         "technologies": ["HTML, CSS, JavaScript"],
-        "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(3).png?raw=true"
+        "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(3).png?raw=true",
+        "vercel": "https://allure-perfumes.vercel.app/",
+        "github": "https://github.com/Kifaa26/Allure-Perfumes.git"
       },
       {
         "title": "To-Do-List",
         "description": "A To-Do-List using the CRUD system",
         "technologies": ["HTML, CSS, JavaScript"],
-        "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(6).png?raw=true"
+        "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(6).png?raw=true",
+        "vercel": "https://to-do-list-one-topaz.vercel.app/",
+        "github": "https://github.com/Kifaa26/To-Do-List.git"
+
       },
       {
           "title": "Swegga",
           "description": "One of my first projects incorparating JavaScript",
           "technologies": ["HTML, CSS, JavaScript"],
-          "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(5).png?raw=true"
+          "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(5).png?raw=true",
+          "vercel": "https://swegga-eta.vercel.app/",
+          "github": "https://github.com/Kifaa26/Swegga.git"
         }
   ],
   
