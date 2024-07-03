@@ -1,14 +1,14 @@
 {
     "home": {
       "title": "Welcome to My Portfolio",
-      "subtitle": "Explore my work and experience.",
-      "description": "I am a aspiring web developer with a passion for creating beautiful and functional websites",
+      "subtitle": "Web Developer",
+      "description": "Embrace challenges as opportunities to learn, and remember, every line of code you write is a step closer to mastery.",
       "image": "https://github.com/Kifaa26/images/blob/main/images/20240422_091005.jpg?raw=true"
     },
   
     "aboutMe": {
       "title": "About Me",
-      "description": "After high school, I took a gap year to delve into Informaton Technology, captivated by the mechanics behind apps, website, and games. This exploration solidified my decision to pursue a career as a software engineer."
+      "description": "I'm currently an aspiring developer at Life Choices Academy. I discovered coding through some friends who are thriving in the industry. I've absorbed a lot and now I'm eager to demonstrate my skills in the workplace.I thrive in environments that are relaxed and harmonious, where camaraderie is valued, and laughter is abundant. While I enjoy light-hearted moments and jokes, I understand the importance of focus and diligence when it comes to work. I take pleasure in ensuring everyone's happiness and often find myself trying to uplift others, particularly in tense situations. Motivating and being motivated is key to my approach in achieving success and accomplishing tasks."
     },
   
       "education": [
@@ -53,7 +53,6 @@
       {
         "title": "Allure Perfumes",
         "description": "A e-commerce website built with HTML, CSS and JavaScript",
-        "technologies": ["HTML, CSS, JavaScript"],
         "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(3).png?raw=true",
         "vercel": "https://allure-perfumes.vercel.app/",
         "github": "https://github.com/Kifaa26/Allure-Perfumes.git"
@@ -61,7 +60,6 @@
       {
         "title": "To-Do-List",
         "description": "A To-Do-List using the CRUD system",
-        "technologies": ["HTML, CSS, JavaScript"],
         "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(6).png?raw=true",
         "vercel": "https://to-do-list-one-topaz.vercel.app/",
         "github": "https://github.com/Kifaa26/To-Do-List.git"
@@ -70,7 +68,6 @@
       {
           "title": "Swegga",
           "description": "One of my first projects incorparating JavaScript",
-          "technologies": ["HTML, CSS, JavaScript"],
           "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(5).png?raw=true",
           "vercel": "https://swegga-eta.vercel.app/",
           "github": "https://github.com/Kifaa26/Swegga.git"
@@ -106,7 +103,6 @@
     ]
     ,
     "contact": {
-      "id": 19,
       "email": "akifahpalekar@gmail.com",
       "phone": "060 939 0467",
       "address": "Lotus River, Cape Town"
