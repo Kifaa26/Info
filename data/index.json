@@ -30,22 +30,32 @@
           "year": "October 2022 - December 2023"
         },
   
-    "skills": [
+    "softSkills": [
       {
-        "name": "HTML",
-        "level": "Imtermediate"
+        "name": "Communication"
       },
       {
-        "name": "CSS",
-        "level": "Intermedate"
+        "name": "Team Work"
       },
       {
-        "name": "JavaScript",
-        "level": "Beginner"
+        "name": "Time Management"
       },
       {
-        "name": "Vue.Js",
-        "level": "Beginner"
+        "name": "Problem-solving"
+      }
+    ],
+    "technicalSkills": [
+      {
+        "name": "HTML"
+      },
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "Vue.Js"
       }
     ],
   
