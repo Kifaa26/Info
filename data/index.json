@@ -74,6 +74,30 @@
           "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%20(5).png?raw=true",
           "vercel": "https://swegga-eta.vercel.app/",
           "github": "https://github.com/Kifaa26/Swegga.git"
+        },
+      {
+          "title": "BMI Calculator",
+          "description": "I was given a challenge to create a BMI Calculator using JavaScript for the first time",
+          "technologies": ["HTML, CSS, JavaScript"],
+          "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%202024-07-05%20093633.png?raw=true",
+          "vercel": "https://bmi-calculator-lilac-two.vercel.app/",
+          "github": "https://github.com/Kifaa26/BMI-calculator.git"
+        },
+      {
+          "title": "Temperature Convertor",
+          "description": "I was given a challenge to create a Temperature Convertor using JavaScript",
+          "technologies": ["HTML, CSS, JavaScript"],
+          "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%202024-07-05%20093708.png?raw=true",
+          "vercel": "https://temperature-convertor-mocha.vercel.app/",
+          "github": "https://github.com/Kifaa26/Temperature-Convertor.git"
+        },
+      {
+          "title": "Keyboard",
+          "description": "I created a keyboard using HTML and CSS",
+          "technologies": ["HTML, CSS"],
+          "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%202024-07-05%20093902.png?raw=true",
+          "vercel": "https://keyboard-virid-psi.vercel.app/",
+          "github": "https://github.com/Kifaa26/keyboard.git"
         }
   ],
   
