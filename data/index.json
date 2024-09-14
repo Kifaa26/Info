@@ -1,8 +1,8 @@
 {
     "home": {
-      "title": "Welcome to My Portfolio",
-      "subtitle": "Explore my work and experience.",
-      "description": "I am a dedicated software developer with expertise in building scalable and efficient applications. With a strong foundation in both frontend and backend development, I specialize in creating dynamic user interfaces and robust server-side logic. I’m passionate about problem-solving, continuous learning, and collaborating on innovative projects to deliver impactful solutions",
+      "title": "Aakifah Palekar",
+      "subtitle": "Software Developer",
+      "description": "Building the Future, One Line of Code at a Time",
       "image": "https://github.com/Kifaa26/images/blob/main/images/Aakifah%202.jpeg?raw=true"
     },
   
@@ -15,12 +15,12 @@
         {
           "degree": "NSC - Diploma",
           "school": "Plumstead Highschool",
-          "year": "2017 - 2021"
+          "year": "January 2017 - December 2021"
         },
         {
           "degree": "Full-stack Software & Web Development Bootcamp",
           "school": "Life Choices Academy",
-          "year": "2024 - present"
+          "year": "April 2024 - September 2024"
         }
       ],
     
