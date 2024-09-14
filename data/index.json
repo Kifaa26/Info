@@ -2,13 +2,13 @@
     "home": {
       "title": "Welcome to My Portfolio",
       "subtitle": "Explore my work and experience.",
-      "description": "I am a aspiring web developer with a passion for creating beautiful and functional websites",
-      "image": "https://github.com/Kifaa26/images/blob/main/images/20240422_091005.jpg?raw=true"
+      "description": "I am a dedicated software developer with expertise in building scalable and efficient applications. With a strong foundation in both frontend and backend development, I specialize in creating dynamic user interfaces and robust server-side logic. I’m passionate about problem-solving, continuous learning, and collaborating on innovative projects to deliver impactful solutions",
+      "image": "https://github.com/Kifaa26/images/blob/main/images/Aakifah%202.jpeg?raw=true"
     },
   
     "aboutMe": {
       "title": "About Me",
-      "description": "I'm currently an aspiring developer at Life Choices Academy. I discovered coding through some friends who are thriving in the industry. I've absorbed a lot and now I'm eager to demonstrate my skills in the workplace.I thrive in environments that are relaxed and harmonious, where camaraderie is valued, and laughter is abundant. While I enjoy light-hearted moments and jokes, I understand the importance of focus and diligence when it comes to work. I take pleasure in ensuring  everyone's happiness and often find myself trying to uplift others, particularly in tense situations.  Motivating and being motivated is key to my approach in achieving success and accomplishing tasks."
+      "description": "I am a passionate software developer with a deep curiosity for the technologies behind software creation. From a young age, I’ve been fascinated by how apps and websites are made, and in high school, I discovered coding as the key to bringing these applications to life. This discovery solidified my path toward a career in Information Technology. I’ve gained valuable knowledge and skills in app and web development, and I’m eager to demonstrate my abilities in a professional setting. I thrive in relaxed, harmonious environments where camaraderie is valued, and laughter is abundant. While I enjoy light-hearted moments, I understand the importance of focus and diligence when it comes to work. I take pride in fostering a positive atmosphere, especially during tense situations, and I’m driven by the belief that motivating and being motivated are essential to achieving success and completing tasks."
     },
   
       "education": [
@@ -42,6 +42,15 @@
       },
       {
         "name": "Problem-solving"
+      },
+      {
+        "name": "Creativity"
+      },
+      {
+        "name": "Active listening"
+      },
+      {
+        "name": "Adaptability"
       }
     ],
     "technicalSkills": [
@@ -56,6 +65,18 @@
       },
       {
         "name": "Vue.Js"
+      },
+      {
+        "name": "Node.Js"
+      },
+      {
+        "name": "MySQL"
+      },
+      {
+        "name": "Canva"
+      },
+      {
+        "name": "GitHub"
       }
     ],
   
@@ -102,50 +123,16 @@
           "github": "https://github.com/Kifaa26/Temperature-Convertor.git"
         },
       {
-          "title": "Keyboard",
-          "description": "I created a keyboard using HTML and CSS",
-          "technologies": ["HTML, CSS"],
-          "image": "https://github.com/Kifaa26/images/blob/main/images/Screenshot%202024-07-05%20093902.png?raw=true",
-          "vercel": "https://keyboard-virid-psi.vercel.app/",
-          "github": "https://github.com/Kifaa26/keyboard.git"
+          "title": "Glow-Fit Studio",
+          "description": "This project was created with frontend and backend",
+          "technologies": ["Vue.js, Node.Js, MySQL"],
+          "image": "https://github.com/Kifaa26/images/blob/main/images/glowfit.png?raw=true",
+          "vercel": "https://glow-fit-studio.web.app/",
+          "github": "https://github.com/Kifaa26/Glow-Fit-Studio.git"
         }
   ],
-  
-    "testimonials": [
-      {
-        "name": "Asheeka Samuels",
-        "quote": "One of Aakifah's strengths lies in her exceptional communication skills and ability to collaborate effectively in team settings. During our time working together, I have had the pleasure of witnessing her dedication and hardworking nature.",
-        "image": "https://github.com/Kifaa26/images/blob/main/images/Askeeka.jpg?raw=true"
-      },
-      {
-        "name": "Anushka Kandan",
-        "quote": "Aakifah is an incredibly dedicated worker who consistently strives to deliver her best. She is proactive in acquiring new knowledge and excels in team environments. Aakifah has a talent for fostering a comfortable atmosphere for those around her and consistently goes the extra mile when needed.",
-        "image": "https://github.com/Kifaa26/images/blob/main/images/annushka.jpg?raw=true"
-      },
-      {
-          "name": "Caleb Okkers",
-          "quote": "Aakifah embodies professionalism at its best. She is highly analytical and adept at solving problems, consistently finding effective solutions. Aakifah demonstrates a strong commitment to her work, willing to make sacrifices to ensure tasks are completed successfully. Her encouragement and motivational approach inspire continuous improvement among her colleagues.",
-          "image": "https://github.com/Kifaa26/images/blob/main/images/Mwah%20(1).jpg?raw=true"
-      },
-      {
-          "name": "Nizaam Jeftha",
-          "quote": "Aakifah excels in coding and is an exceptional friend. Her perseverance is one of her standout qualities, as she never gives up and is always ready to assist others. Aakifah's positive attitude positively influences those around her, motivating them to work just as diligently.",
-          "image": "https://github.com/Kifaa26/images/blob/main/images/Nizaam.jpg?raw=true"
-      },
-      {
-          "name": "Nicki Abels",
-          "quote": "I am grateful to call Aakifah a close friend. She has great work ethic, analytical and problem solving skills. She thrives in collaborative settings as well as when she works on her own. She is kind, generous and hilarious. Aakifah would be a valuable asset to any organization.",
-          "image": "https://github.com/Kifaa26/images/blob/main/images/nicki.jpg?raw=true"
-      },
-      {
-          "name": "Joel Mukanya",
-          "quote": "Aakifah is a highly creative and dedicated individual who thrives on collaborating with her peers and excels at project work. She has acquired a diverse range of skills and tools, including HTML5, CSS3, and Bootstrap. It is my pleasure to introduce her to you as an exceptional candidate and developer.",
-          "image": "https://github.com/Kifaa26/images/blob/main/images/joel2.jpg?raw=true"
-      }
-    ]
-    ,
+
     "contact": {
-      "id": 19,
       "email": "akifahpalekar@gmail.com",
       "phone": "060 939 0467",
       "address": "Lotus River, Cape Town"
