@@ -11,25 +11,6 @@
       "description": "I am a passionate software developer with a deep curiosity for the technologies behind software creation. From a young age, I’ve been fascinated by how apps and websites are made, and in high school, I discovered coding as the key to bringing these applications to life. This discovery solidified my path toward a career in Information Technology. I’ve gained valuable knowledge and skills in app and web development, and I’m eager to demonstrate my abilities in a professional setting. I thrive in relaxed, harmonious environments where camaraderie is valued, and laughter is abundant. While I enjoy light-hearted moments, I understand the importance of focus and diligence when it comes to work. I take pride in fostering a positive atmosphere, especially during tense situations, and I’m driven by the belief that motivating and being motivated are essential to achieving success and completing tasks."
     },
   
-      "education": [
-        {
-          "degree": "NSC - Diploma",
-          "school": "Plumstead Highschool",
-          "year": "January 2017 - December 2021"
-        },
-        {
-          "degree": "Full-stack Software & Web Development Bootcamp",
-          "school": "Life Choices Academy",
-          "year": "April 2024 - September 2024"
-        }
-      ],
-    
-      "experience": {
-          "position": "Customer Servive Representative",
-          "company": "Teleperformance",
-          "year": "October 2022 - December 2023"
-        },
-  
     "softSkills": [
       {
         "name": "Communication"
@@ -79,6 +60,44 @@
         "name": "GitHub"
       }
     ],
+
+    "Hobbies": [
+      {
+        "name": "Reading",
+        "image": "https://github.com/Kifaa26/images/blob/main/images/books.jpg?raw=true"
+      },
+      {
+        "name": "Hiking",
+        "image": "https://github.com/Kifaa26/images/blob/main/images/hiking%202.jpg?raw=true"
+      },
+      {
+        "name": "Gyming",
+        "image": "https://github.com/Kifaa26/images/blob/main/images/gym.jpg?raw=true"
+      },
+      {
+        "name": "Family time",
+        "image": "https://github.com/Kifaa26/images/blob/main/images/family.jpg?raw=true"
+      }
+    ],
+
+      "education": [
+        {
+          "degree": "NSC - Diploma",
+          "school": "Plumstead Highschool",
+          "year": "January 2017 - December 2021"
+        },
+        {
+          "degree": "Full-stack Software & Web Development Bootcamp",
+          "school": "Life Choices Academy",
+          "year": "April 2024 - September 2024"
+        }
+      ],
+    
+      "experience": {
+          "position": "Customer Servive Representative",
+          "company": "Teleperformance",
+          "year": "October 2022 - December 2023"
+        },
   
     "projects": [
       {
