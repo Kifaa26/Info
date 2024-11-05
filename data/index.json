@@ -143,7 +143,7 @@
         },
       {
           "title": "Glow-Fit Studio",
-          "description": "This project was created with frontend and backend",
+          "description": "This project was created using Node.js, MySQL and Vue.js",
           "technologies": ["Vue.js, Node.Js, MySQL"],
           "image": "https://github.com/Kifaa26/images/blob/main/images/glowfit.png?raw=true",
           "vercel": "https://glow-fit-studio.web.app/",
